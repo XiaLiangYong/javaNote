@@ -1,162 +1,162 @@
-��һ�׶Σ�
+第一阶段：
 
-Java����
-�����������Windows�º�Linux�µ�Java�������
-Java���Ի���
-Java���̿���
-Java������
+Java基础
+环境搭建（包括Windows下和Linux下的Java环境搭建）
+Java语言基础
+Java流程控制
+Java常用类
 
-Java�������
-Java�������
-������������̬
-�ӿ��������
+Java面向对象
+Java类与对象
+介绍面向对象多态
+接口与抽象类
 
-Java�߼�
-�쳣����
-I/O��JavaBean
-����
-���߳�
-������
-����/Java������
+Java高级
+异常处理
+I/O、JavaBean
+反射
+多线程
+网络编程
+泛型/Java集合类
 
-Java�����ݿ�
+Java与数据库
 MySQL
 ORACLE
-JDBC������Ӧ��
+JDBC开发与应用
 
-Ŀ�꣺
-1.��ͨjava�������˼��ͻ����﷨��
-2.����java���쳣������
-3.��ͨjava��I/O������
-4.����java�ж��̲߳�����
-5.��ͨjava�м������ʹ�á�
-6.����java�������̡�
-7.��ͨ���ݿ�/JDBC��ʹ��
+目标：
+1.精通java面向对象思想和基础语法。
+2.熟练java中异常处理。
+3.精通java中I/O操作。
+4.掌握java中多线程操作。
+5.精通java中集合类的使用。
+6.掌握java中网络编程。
+7.精通数据库/JDBC的使用
 
-Ч����
-���׶�ѧϰЧ��
-1.��ͨJava���Լ���߼����ԡ�
-2.�߱�����Ӧ�ÿ����������ܹ�����һЩ�������������磺�����ң��ļ��������ֵȡ�
+效果：
+本阶段学习效果
+1.精通Java语言及其高级特性。
+2.具备本地应用开发能力，能够开发一些本地软件，例如：聊天室，文件传输助手等。
 
 
-�ڶ��׶Σ�
+第二阶段：
 
-Webǰ�˿���
+Web前端开发
 
-Html����
-��ʶWebǰ�˺�html
-���ñ�ǩʹ��
-Java���̿���
-Java������
+Html基础
+认识Web前端和html
+常用标签使用
+Java流程控制
+Java常用类
 
 CSS3
-CSS3����
-CSS3����
+CSS3基础
+CSS3进阶
 
-JS�ű����
-��ʶJavaScript
-JavaScriptʹ��
+JS脚本编程
+初识JavaScript
+JavaScript使用
 DOM
-�¼�
-JQuery���
+事件
+JQuery框架
 
-���APP��������
-��Ͽ�����������
-��Ͽ�������ʵս
+混合APP开发技术
+混合开发基础环境
+混合开发技术实战
 
-Ŀ��
-1.����html+css+js��ؼ�����
-2.ͨ��H5��صĿ���ٱ�д���룻
-3.����ϴ�����Ҫ��Ľ��棬ʹǰ��+���+������ʵ����άһ�壻
-
-
-Ч��
-1.����html5���֪ʶ�ܹ�ͨ��������������վ��
-2.����ʵ��ԭ��js���̬Ч�����棻
-3.ʹ��JQuery����ٴԭ�ͽ��棻
+目标
+1.掌握html+css+js相关技术；
+2.通过H5相关的库快速编写代码；
+3.搭建符合大数据要求的界面，使前端+后端+大数据实现三维一体；
 
 
-�����׶Σ�
-JavaEE���ף�
+效果
+1.掌握html5相关知识能够通过需求搭建高质量网站；
+2.可以实现原生js搭建动态效果界面；
+3.使用JQuery库快速搭建原型界面；
 
-JavaWeb��˿���
-Web��������
-JavaWeb��������
 
-JavaEE�������
-Spring���
-SpringMVC���
-Struts���
-Hibernate���
+第三阶段：
+JavaEE进阶：
+
+JavaWeb后端开发
+Web环境配置
+JavaWeb开发核心
+
+JavaEE主流框架
+Spring框架
+SpringMVC框架
+Struts框架
+Hibernate框架
 MyBatis
 
-�׶��ۺ���Ŀ
-΢��
-���ϵͳ
-������app
+阶段综合项目
+微信
+点餐系统
+吃了吗app
 
-Ŀ��
-1.����Tomcat/Nginx���������
-2.����Jsp&Servlet��ʹ�á�
-3.��ͨSSH��SSM�������п�ܵ�ԭ����ʹ�á�
+目标
+1.掌握Tomcat/Nginx服务器搭建。
+2.掌握Jsp&Servlet的使用。
+3.精通SSH、SSM两大流行框架的原理及使用。
 
-Ч��
-1.����html5���֪ʶ�ܹ�ͨ��������������վ��
-2.����ʵ��ԭ��js���̬Ч�����棻
-3.ʹ��JQuery����ٴԭ�ͽ��棻
-
-
-���Ľ׶�:
-�����ݺ���֪ʶ
-
-Hadoop����
-Hadoop1����
-hadoop1�ܹ�
-hadoop2�ܹ����Ա�hadoop1��
-hadoop2�����
-HDFS����
-yarn����
-
-HadoopӦ��
-Hive���ݲֿ�
-zookeeperϵͳ����
-HBase�ǹ�ϵ�����ݿ�
-Sqoop���ݿ��ȡ����
-Flume��־��ȡ����
-
-Spark����
-�����
-Sparkƽ̨����
-RDD���Էֲ�ʽ���ݼ�
-Scala���
-
-SparkӦ��
-Spark-SQL���
-DataFrame���
-
-Ŀ��
-1.�˽�hadoop����ԭ�� ��
-2.�˽�hadoop��Ⱥ����̣�
-3.�˽�Hdfs APIʹ���Լ�mr���ģ�ͣ�
-4.�˽�hive��hbase��sqoop��flume�������ʹ�÷�����
-5.Sparkƽ̨�������Լ�Spark��Ⱥ�Ĵ���̣�
-6.Scala������ƻ�����
-7.Spark-SQL��DataFrame API��⡣
+效果
+1.掌握html5相关知识能够通过需求搭建高质量网站；
+2.可以实现原生js搭建动态效果界面；
+3.使用JQuery库快速搭建原型界面；
 
 
-Ч��
-1.�˽�hadoop��Ⱥ�Ĵ���̣�
-2.�ܹ�ͨ��mr��hive��ʵ�ּ򵥵�������ϴ��ҵ������
-3.�ܹ��˽����ݵĳ�ȡ��ת������ϴ����ģ�������̣�
-4.����Spark��Ⱥ�Ĵ��
-5.���պ���ʽ���˼�룬�ܹ�����ҵ�������д��������Scala����
-6.���մ��ģ�������ݵļ��㡢����������
+第四阶段:
+大数据核心知识
+
+Hadoop基础
+Hadoop1介绍
+hadoop1架构
+hadoop2架构（对比hadoop1）
+hadoop2环境搭建
+HDFS操作
+yarn操作
+
+Hadoop应用
+Hive数据仓库
+zookeeper系统服务
+HBase非关系型数据库
+Sqoop数据库抽取工具
+Flume日志抽取工具
+
+Spark基础
+环境搭建
+Spark平台介绍
+RDD弹性分布式数据集
+Scala编程
+
+Spark应用
+Spark-SQL组件
+DataFrame组件
+
+目标
+1.了解hadoop机制原理 ；
+2.了解hadoop集群搭建过程；
+3.了解Hdfs API使用以及mr编程模型；
+4.了解hive、hbase、sqoop、flume等组件的使用方法；
+5.Spark平台的优势以及Spark集群的搭建过程；
+6.Scala程序设计基础；
+7.Spark-SQL和DataFrame API详解。
 
 
-����׶�:
-�����̳� 
-����������Ŀ  ΨƷ��
-              ���մ���Ŀ
-              OA�칫�Զ���
-              CRM�ͻ�����ϵͳ
+效果
+1.了解hadoop集群的搭建过程；
+2.能够通过mr和hive来实现简单的数据清洗的业务需求；
+3.能够了解数据的抽取，转换，清洗，建模，入库过程；
+4.掌握Spark集群的搭建；
+5.掌握函数式编程思想，能够根据业务需求编写高质量的Scala程序；
+6.掌握大规模离线数据的计算、分析能力。
+
+
+第五阶段:
+网上商城
+互联网类项目  唯品会
+              当日达项目
+              OA办公自动化
+              CRM客户管理系统
 
