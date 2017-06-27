@@ -12,5 +12,7 @@ public class testMath {
         System.out.println("1的反正切值： " + Math.atan(1));
         System.out.println("π/2的角度值：" + Math.toDegrees(Math.PI / 2));
         System.out.println(Math.PI);
+        int ran = (int) (Math.random() * 100);
+        System.out.println(ran);
     }
 }
