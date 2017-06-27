@@ -13,5 +13,9 @@ public class testCharacter {
         String str = "1212";
         System.out.println(str.concat("a"));
         System.out.println(str.length());
+        String s = "Google";
+        System.out.println("s = " + s);
+        s = "Runoob";
+        System.out.println("s = " + s);
     }
 }
