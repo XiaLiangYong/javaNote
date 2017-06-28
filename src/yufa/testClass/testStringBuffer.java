@@ -4,6 +4,7 @@ package yufa.testClass;
  * Created by alibeibei on 2017/6/27.
  */
 public class testStringBuffer {
+
     public static void main(String[] args) {
         StringBuffer sBuffer = new StringBuffer("菜鸟教程官网：");
         sBuffer.append("www");
@@ -30,5 +31,8 @@ public class testStringBuffer {
             total += myList[i];
         }
         System.out.println("总和为： " + total);
+
+        StringBuffer sbuff = new StringBuffer("he");
+
     }
 }
