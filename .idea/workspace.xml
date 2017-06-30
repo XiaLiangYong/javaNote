@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/yufa/PrimitiveType/test.java" line="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ebc6d73-7c65-487f-b7a2-0dd647948c4e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/yufa/http/Test.java" />
-    </list>
+    <list default="true" id="9ebc6d73-7c65-487f-b7a2-0dd647948c4e" name="Default" comment="" />
     <list id="8b29a6eb-4a84-4453-9886-a84b8720b1e9" name="其他" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -687,7 +685,7 @@
       <workItem from="1498718355002" duration="1231000" />
       <workItem from="1498721506023" duration="3853000" />
       <workItem from="1498785614463" duration="29000" />
-      <workItem from="1498810471271" duration="3000" />
+      <workItem from="1498810471271" duration="142000" />
     </task>
     <task id="LOCAL-00001" summary="第一个java程序">
       <created>1497591400510</created>
@@ -826,7 +824,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49008000" />
+    <option name="totallyTimeSpent" value="49147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
