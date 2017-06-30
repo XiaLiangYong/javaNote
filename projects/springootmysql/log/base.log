@@ -1,0 +1,20 @@
+2017-06-30 15:32:16,554 INFO (StartupInfoLogger.java:48)- Starting Application on alibeibei-PC with PID 8972 (D:\javaHome\springootmysql\target\classes started by alibeibei in D:\javaHome\springootmysql)
+2017-06-30 15:32:16,556 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.BUILD-SNAPSHOT, Spring v5.0.0.BUILD-SNAPSHOT
+2017-06-30 15:32:16,556 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-06-30 15:32:21,686 INFO (StartupInfoLogger.java:57)- Started Application in 5.423 seconds (JVM running for 5.891)
+2017-06-30 15:32:35,436 DEBUG (DataController.java:32)- save 开始
+2017-06-30 15:32:35,575 DEBUG (DataController.java:34)- save 结束
+2017-06-30 15:35:23,860 DEBUG (DataController.java:32)- save 开始
+2017-06-30 15:35:23,878 DEBUG (DataController.java:34)- save 结束
+2017-06-30 15:35:30,378 DEBUG (DataController.java:32)- save 开始
+2017-06-30 15:35:30,382 DEBUG (DataController.java:34)- save 结束
+2017-06-30 15:35:38,330 DEBUG (DataController.java:32)- save 开始
+2017-06-30 15:35:38,339 DEBUG (DataController.java:34)- save 结束
+2017-06-30 15:35:44,307 DEBUG (DataController.java:40)- q1 开始
+2017-06-30 15:35:44,308 DEBUG (DataController.java:41)- q1 接收参数address=北京
+2017-06-30 15:35:53,154 DEBUG (DataController.java:48)- q2 开始
+2017-06-30 15:35:53,155 DEBUG (DataController.java:49)- q2接收参数name=aa,address=北京
+2017-06-30 15:35:59,436 DEBUG (DataController.java:55)- q3 开始
+2017-06-30 15:35:59,437 DEBUG (DataController.java:56)- q3接收参数name=aa,address=北京
+2017-06-30 15:36:05,904 DEBUG (DataController.java:62)- sort 开始
+2017-06-30 15:36:12,506 DEBUG (DataController.java:69)- page 开始

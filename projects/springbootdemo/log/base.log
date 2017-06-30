@@ -1,0 +1,9 @@
+2017-06-30 13:52:38,448 INFO (StartupInfoLogger.java:48)- Starting Application on alibeibei-PC with PID 6876 (D:\javaHome\springbootdemo\target\classes started by alibeibei in D:\javaHome\springbootdemo)
+2017-06-30 13:52:38,450 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.BUILD-SNAPSHOT, Spring v5.0.0.BUILD-SNAPSHOT
+2017-06-30 13:52:38,450 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-06-30 13:52:40,266 INFO (StartupInfoLogger.java:57)- Started Application in 2.06 seconds (JVM running for 2.431)
+2017-06-30 13:53:01,280 DEBUG (HelloController.java:25)- 访问helloName,Name=nihao
+2017-06-30 13:53:17,587 DEBUG (HelloController.java:25)- 访问helloName,Name=nihao
+2017-06-30 13:53:21,013 DEBUG (HelloController.java:25)- 访问helloName,Name=nihao
+2017-06-30 13:53:37,339 DEBUG (HelloController.java:19)- 访问hello
+2017-06-30 13:55:57,120 DEBUG (HelloController.java:19)- 访问hello
