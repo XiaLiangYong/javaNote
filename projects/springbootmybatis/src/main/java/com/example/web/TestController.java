@@ -7,20 +7,23 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.List;
+
 /**
  * Created by alibeibei on 2017/6/30.
  */
 @RestController
 @RequestMapping({"/home"})
 public class TestController {
-
     @Autowired
-    HotelDtoMapper hotelMap;
+    public HotelDtoMapper hotel;
 
-    @RequestMapping(value = "/user")
+
+    @RequestMapping("/getUserInfo")
     @ResponseBody
-    public String user() {
-        HotelDto hotel = hotelMap.findByCountry("成都");
-        return hotel.getName();
+    public List<HotelDto> getUserInfo() {
+        System.out.println("hello");
+        List<HotelDto> hotelList = hotel.findByCountry("成都");
+        return hotelList;
     }
 }
