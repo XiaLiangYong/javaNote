@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:2.0.0.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://C:/tools/maven-repo/org/springframework/boot/spring-boot-starter-data-jpa/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-jpa-2.0.0.BUILD-20170629.231437-758.jar!/" />
+      <root url="jar://C:/tools/maven-repo/org/springframework/boot/spring-boot-starter-data-jpa/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-jpa-2.0.0.BUILD-20170804.125337-859.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://C:/tools/maven-repo/org/springframework/boot/spring-boot-starter-data-jpa/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-jpa-2.0.0.BUILD-20170629.231437-758-javadoc.jar!/" />
+      <root url="jar://C:/tools/maven-repo/org/springframework/boot/spring-boot-starter-data-jpa/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-jpa-2.0.0.BUILD-20170804.125337-859-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://C:/tools/maven-repo/org/springframework/boot/spring-boot-starter-data-jpa/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-jpa-2.0.0.BUILD-20170629.231437-758-sources.jar!/" />
+      <root url="jar://C:/tools/maven-repo/org/springframework/boot/spring-boot-starter-data-jpa/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-jpa-2.0.0.BUILD-20170804.125337-859-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
